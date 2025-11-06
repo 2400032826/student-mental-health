@@ -1,0 +1,10 @@
+:root {
+--primary-color: #2c7da0;
+--secondary-color: #46b484;
+--background-color: #f7f9fc;
+--card-background: #ffffff;
+--text-color: #333333;
+--shadow-light: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+* { margin:0; padding:0; box-sizing:border-box; font-family: 'Poppins', sans-serif; }
+body { background-color: var(--background-color); color: var(--text-color); line-height:1.6 }
